@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.App\\Bibliotheque.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.App\\Bibliotheque.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.App\\Bibliotheque.App.csproj",
+        "projectName": "Bibliotheque.App",
+        "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.App\\Bibliotheque.App.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj": {
+                "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj"
+              },
+              "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\Bibliotheque.Serialization.csproj": {
+                "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\Bibliotheque.Serialization.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj",
+        "projectName": "Bibliotheque.Data",
+        "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\Bibliotheque.Serialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\Bibliotheque.Serialization.csproj",
+        "projectName": "Bibliotheque.Serialization",
+        "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\Bibliotheque.Serialization.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Serialization\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj": {
+                "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\ZZ2\\Dotnet\\Exam\\TP_note\\TP_note\\Bibliotheque.Data\\Bibliotheque.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

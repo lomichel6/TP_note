@@ -1,0 +1,14 @@
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.App.exe.config
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.App.exe
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.App.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.Data.dll
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.Serialization.dll
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.Data.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\bin\Debug\net472\Bibliotheque.Serialization.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Biblioth.68900532.Up2Date
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.exe
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.App\obj\Debug\net472\Bibliotheque.App.exe.config

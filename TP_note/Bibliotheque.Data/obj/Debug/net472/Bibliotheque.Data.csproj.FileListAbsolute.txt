@@ -1,0 +1,7 @@
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\bin\Debug\net472\Bibliotheque.Data.dll
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\bin\Debug\net472\Bibliotheque.Data.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\obj\Debug\net472\Bibliotheque.Data.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\obj\Debug\net472\Bibliotheque.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\obj\Debug\net472\Bibliotheque.Data.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\obj\Debug\net472\Bibliotheque.Data.dll
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\Bibliotheque.Data\obj\Debug\net472\Bibliotheque.Data.pdb

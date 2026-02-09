@@ -1,0 +1,8 @@
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\bin\Debug\TP_note.exe.config
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\bin\Debug\TP_note.exe
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\bin\Debug\TP_note.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\obj\Debug\TP_note.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\obj\Debug\TP_note.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\obj\Debug\TP_note.exe
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\obj\Debug\TP_note.pdb
+C:\Users\louis\OneDrive\Documents\ZZ2\Dotnet\Exam\TP_note\TP_note\obj\Debug\TP_note.exe.config
